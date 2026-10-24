@@ -36,9 +36,18 @@ often you can attack.
 - [Newen Calle](https://github.com/Newen95): level design, menus and UI, player
   character (see above).
 
-The project was versioned with Diversion (not git); this repository is a
-showcase. A packaged Windows build is available on the
-[Releases](https://github.com/Newen95/eternal-descent/releases) page.
+The project was versioned with Diversion (not git) and relies on third-party
+Marketplace assets that cannot be redistributed, so this repository is a
+showcase with a playable build.
+
+## Play it
+
+1. Download both parts, `EternalDescent-Windows.7z.001` and `.002`, from the
+   [latest release](https://github.com/Newen95/eternal-descent/releases/latest)
+   into the same folder (about 3 GB in total).
+2. Open the `.001` file with [7-Zip](https://www.7-zip.org/) and extract it; the
+   second part is read automatically.
+3. Run `Sprint2/GenerationDungeon.exe` (Windows, DirectX 12 GPU).
 
 ## Controls
 
