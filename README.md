@@ -2,7 +2,7 @@
 
 A dungeon wave shooter made with Unreal Engine 5 (Blueprints) in a team of three,
 for the "AI for FPS & Game Design" sprint of the Unreal Engine track at Epitech
-Berlin (October–November 2025).
+Berlin (October-November 2025).
 
 ![Combat in the dwarven city](docs/combat.jpg)
 
